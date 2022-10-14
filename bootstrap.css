@@ -4786,7 +4786,7 @@ input[type="button"].btn-block {
 	padding:10px;
 */
 /*	border:1px solid var(--black);*/
-	background-image: url(../../../IMAGES/toggler.png);
+	background-image: url(toggler.png);
 }
 
 .navbar-dark .navbar-text {
