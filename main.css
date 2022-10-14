@@ -1,0 +1,690 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*#####################section01###################*/
+.nav-link {
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.navbar .ben-logo{
+	width:50px;
+	heith:32px;
+}
+
+#home h1{
+	font-size:28px;
+	font-weight: 700;
+	padding-bottom: 20px;
+}
+
+#home h2{
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 150%;
+	color: #444444;
+	padding-bottom: 50px;
+}
+
+
+
+#home .h1-mobile{
+	font-size:66px;
+	font-weight: 700;
+	padding-bottom: 0px;
+}
+
+#home .p-mobile{
+	font-size:14px;
+	font-weight: 300;
+	line-height: 140%;
+	margin-bottom:2.1rem;
+}
+
+#home .position-avatar{
+	position:relative;
+	top:-1.6rem;
+}
+
+#home .position-designer{
+	position:relative;
+	top:-2.5rem;
+	left:-1.4rem;
+}
+
+.uxui{
+	font-size: 66px;
+	font-weight: 700;
+}
+
+.btn-primary{
+	font-size:14px;
+	font-weight:500;
+}
+
+.btn-secondary{
+	font-size:14px;
+	font-weight:500;
+}
+
+#home .pbottom-5
+	{
+		padding-bottom: 150px;
+	}	
+#home .pl-6{
+	padding-left: 20vw;
+}
+
+#home .position-underline{
+	position: absolute;
+	left:338px;
+	top:30px;
+}
+
+#home .position-heroimage{
+	position: relative;
+	left:-10vw;
+}
+
+.display-mobile{
+	display:block;	
+}
+
+.screen{
+	display:none;
+}
+
+
+/*#####################section02###################*/
+
+#project h1{
+	font-size:28px;
+	font-weight: 500;
+	text-align:left;
+	padding-left:15px;
+	padding-bottom: 25px;
+}
+
+
+
+#project h2{
+	font-size:38px;
+	font-weight: 500;
+	padding-bottom: 10px;
+}
+
+#home h4{
+	font-size:16px;
+	font-weight: 500;
+	padding-bottom: 10px;
+}
+
+#project p{
+	font-size:14px;
+	font-weight: 300;
+	padding-bottom: 10px;
+	color: #444444;
+	line-height: 150%;
+}
+#project .position-underline{
+	position: absolute;
+	left:20vw;
+}
+
+#project .position-underline1{
+	position: absolute;
+	left:19vw;
+	top:9vh;
+}
+
+#project .position-underline2{
+	position: relative;
+	left:-1rem;
+/*	top:10vh;*/
+}
+
+#project .position-box{
+	position: relative;
+	top:1rem;
+}
+
+#project .position-box1{
+	position: relative;
+	top:-2rem;
+}
+
+#project .position-box2{
+	position: relative;
+	top:0.1rem;
+}
+
+#project .width-box{
+	max-width: 100%;
+}
+
+
+#project .project-card{
+	background-color:#FFFCF8;
+	border: 1px solid #EEEEEE;
+	border-radius:16px;
+	padding: 20px 20px 30px 20px;
+}
+
+
+#project .container-fluid-mobile{
+	height:845px;
+}
+#project .container-fluid-mobile-01{
+	height:600px;
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+#project .container-fluid-mobile-02{
+	height:515px;
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*###########Section-03#######################*/
+
+
+#aboutme h1{
+	margin-top:3rem;
+	font-size:28px;
+	font-weight: 500;
+	text-align:left;
+	padding-left:15px;
+}
+
+#aboutme .line{
+	max-width:100vw;
+	height:1.5px;
+	background-color: #000000;
+}
+
+
+#aboutme h2{
+	font-size:38px;
+	font-weight: 500;
+}
+
+#aboutme h3{
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 150%;
+	padding-bottom: 20px;
+}
+
+
+#aboutme p{
+	font-size:21px;
+	font-weight: 300;
+	padding-bottom: 35px;
+	color: #444444;
+	line-height: 150%;
+}
+
+#aboutme .position-about{
+	padding-left:380px;
+	top:10vh;
+}
+
+
+
+
+/*##############################1440x1024###############################*/
+
+@media (min-width:1200px){
+	
+	
+	
+	/*#####################section01###################*/
+.nav-link {
+	font-size: 16px;
+	font-weight: 500;
+}
+	
+	.navbar .ben-logo{
+	width:auto;
+	heith:auto;
+}
+
+#home h1{
+	font-size:28px;
+	font-weight: 700;
+	padding-bottom: 20px;
+}
+
+#home h2{
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 150%;
+	color: #444444;
+	padding-bottom: 50px;
+}
+
+.uxui{
+	font-size: 66px;
+	font-weight: 700;
+}
+
+.btn-primary{
+	font-size:21px;
+	font-weight:500;
+}
+
+.btn-secondary{
+	font-size:21px;
+	font-weight:500;
+}
+
+#home .pl-6{
+	padding-left: 1rem;
+	z-index:99;
+}
+
+.pbottom
+	{
+		padding-bottom: 106px;
+	}		
+	
+#home .position-underline{
+	position: absolute;
+	left:338px;
+	top:30px;
+}
+
+#home .position-heroimage{
+	position: relative;
+	left:-16vw;
+	z-index:0;
+}
+	
+.screen{
+	display:block;
+}
+.display-mobile{
+	display:none;
+}
+
+/*#####################section02###################*/
+
+#project h1{
+	font-size:50px;
+	font-weight: 700;
+	padding-bottom: 80px;
+	text-align:center;
+}
+
+#project h2{
+	font-size:38px;
+	font-weight: 500;
+	padding-bottom: 10px;
+}
+
+#project p{
+	font-size:21px;
+	font-weight: 300;
+	padding-bottom: 35px;
+	color: #444444;
+	line-height: 150%;
+}
+#project .position-underline{
+	position: absolute;
+	left:1rem;
+}
+
+#project .position-underline1{
+	position: absolute;
+	left:1rem;
+	top:5.2rem;
+}
+
+#project .position-underline2{
+	position: absolute;
+	left:0rem;
+	top:4.5rem;
+}
+
+#project .position-box{
+	position: absolute;
+	left:-2rem;
+	top:28rem;
+}
+
+#project .position-box1{
+	position: absolute;
+	left:-2rem;
+	top:12rem;
+}
+
+#project .position-box2{
+	position: absolute;
+	left:-2rem;
+	top:9.7rem;
+}
+
+#project .width-box{
+	max-width: 100%;
+}
+
+#project .project-card{
+	background-color:#FFFCF8;
+	border: 1px solid #EEEEEE;
+	border-radius:56px 56px 56px 56px;
+	padding: 35px 50px 50px 50px;
+}
+
+
+#project .container-fluid{
+	height:1000px;
+}
+#project .container-fluid-01{
+	height:700px;
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+#project .container-fluid-02{
+	height:700px;
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*###########Section-03#######################*/
+
+
+#aboutme h1{
+	font-size:50px;
+	font-weight: 700;
+	padding-bottom: 20px;
+		text-align:center;
+}
+
+#aboutme h2{
+	font-size:38px;
+	font-weight: 500;
+}
+
+#aboutme h3{
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 150%;
+	padding-bottom: 20px;
+}
+
+
+#aboutme p{
+	font-size:21px;
+	font-weight: 300;
+	padding-bottom: 35px;
+	color: #444444;
+	line-height: 150%;
+}
+
+#aboutme .position-about{
+	padding-left:1.5rem;
+	top:4rem;
+}
+	
+#aboutme .position-about-image{
+	position:relative;
+	left:-12rem;
+	top:3rem;
+	z-index: -1;
+}
+#aboutme .avatar{
+		border:1px solid #FFA11F;
+		border-radius: 80px;
+	}	
+	
+}
+
+
+
+@media (min-width:1900px){
+	
+	/*#####################section01###################*/
+.nav-link {
+	font-size: 16px;
+	font-weight: 500;
+}
+	
+.navbar .ben-logo{
+	width:auto;
+	heith:auto;
+}
+	
+.pl-7{
+		
+		padding-left:242px;
+		
+	}
+	
+	.pr-7{
+		padding-right:242px;
+	}
+
+#home h1{
+	font-size:28px;
+	font-weight: 700;
+	padding-bottom: 20px;
+}
+
+#home h2{
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 150%;
+	color: #444444;
+	padding-bottom: 50px;
+}
+
+.uxui{
+	font-size: 66px;
+	font-weight: 700;
+}
+
+.btn-primary{
+	font-size:21px;
+	font-weight:500;
+}
+
+.btn-secondary{
+	font-size:21px;
+	font-weight:500;
+}
+
+#home .pl-6{
+	padding-left: 17rem;
+}
+	
+.pbottom
+	{
+		padding-bottom: 106px;
+	}	
+
+#home .position-underline{
+	position: absolute;
+	left:338px;
+	top:30px;
+}
+
+#home .position-heroimage{
+	position: relative;
+	left:-5rem;
+}
+
+.screen{
+	display:block;
+}
+	
+.display-mobile{
+	display:none;
+}
+
+/*#####################section02###################*/
+
+#project h1{
+	font-size:50px;
+	font-weight: 700;
+	padding-bottom: 80px;
+	text-align:center;
+}
+
+#project h2{
+	font-size:38px;
+	font-weight: 500;
+	padding-bottom: 10px;
+}
+
+#project p{
+	font-size:21px;
+	font-weight: 300;
+	padding-bottom: 35px;
+	color: #444444;
+	line-height: 150%;
+}
+#project .position-underline{
+	position: absolute;
+	left:16rem;
+}
+
+#project .position-underline1{
+	position: absolute;
+	left:15rem;
+	top:9vh;
+}
+
+#project .position-underline2{
+	position: absolute;
+	left:15rem;
+	top:7vh;
+}
+
+#project .position-box{
+	position: absolute;
+	left:6vw;
+	top:40vh;
+}
+
+#project .position-box1{
+	position: absolute;
+	left:6vw;
+	top:20vh;
+}
+
+#project .position-box2{
+	position: absolute;
+	left:6vw;
+	top:16vh;
+}
+
+#project .width-box{
+	max-width: 42rem;
+}
+
+#project .project-card{
+	background-color:#FFFCF8;
+	border: 1px solid #EEEEEE;
+	border-radius:56px 56px 56px 56px;
+	padding: 35px 50px 50px 50px;
+}
+
+
+#project .container-fluid{
+	height:1000px;
+}
+#project .container-fluid-01{
+	height:700px;
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+#project .container-fluid-02{
+	height:700px;
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*###########Section-03#######################*/
+
+
+#aboutme h1{
+	font-size:50px;
+	font-weight: 700;
+	padding-bottom: 20px;
+		text-align:center;
+}
+
+#aboutme h2{
+	font-size:38px;
+	font-weight: 500;
+}
+
+#aboutme h3{
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 150%;
+	padding-bottom: 20px;
+}
+
+
+#aboutme p{
+	font-size:21px;
+	font-weight: 300;
+	padding-bottom: 35px;
+	color: #444444;
+	line-height: 150%;
+}
+
+#aboutme .position-about{
+	padding-left:18rem;
+	top:4rem;
+}
+	
+	#aboutme .position-about-image{
+	position:relative;
+	left:-7rem;
+	top:2rem;
+	z-index: -1;
+}
+
+	#aboutme .avatar{
+		border:1px solid #FFA11F;
+		border-radius: 80px;
+	}	
+		
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
